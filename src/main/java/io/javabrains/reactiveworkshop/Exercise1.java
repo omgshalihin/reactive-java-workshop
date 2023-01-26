@@ -3,6 +3,7 @@ package io.javabrains.reactiveworkshop;
 public class Exercise1 {
 
     public static void main(String[] args) {
+        System.out.println("main is running...");
 
         // Use StreamSources.intNumbersStream() and StreamSources.userStream()
 
@@ -24,6 +25,7 @@ public class Exercise1 {
 
         // Print first names in userStream for users that have IDs from number stream
         // TODO: Write code here
+
 
     }
 
