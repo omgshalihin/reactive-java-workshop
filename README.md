@@ -21,4 +21,5 @@ more than one item
 
 ### Mono
 
-1 or less item
+- 0 or 1
+- completed event only
