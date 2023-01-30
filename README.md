@@ -1,3 +1,17 @@
 # reactive-java-workshop
 
-in development...
+## Design Patterns
+
+### Iterator
+
+- Explain?
+
+### Observer
+
+- Explain?
+
+## Reactive World
+
+equivalent to:
+
+- forEach() : subscribe()
