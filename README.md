@@ -12,6 +12,13 @@
 
 ## Reactive World
 
-equivalent to:
+- forEach() equivalent to: subscribe()
+- converts flux into stream: .toStream()
 
-- forEach() : subscribe()
+### Flux
+
+more than one item
+
+### Mono
+
+1 or less item
