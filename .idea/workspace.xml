@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="684c8c37-4a27-4f62-9e94-e17cc2f8eb5e" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/io/javabrains/reactiveworkshop/Exercise9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +64,7 @@
       <recent name="io.javabrains.reactiveworkshop" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise9">
+  <component name="RunManager" selected="Application.Exercise6">
     <configuration name="Exercise4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="io.javabrains.reactiveworkshop.Exercise4" />
       <module name="reactive-example" />
@@ -133,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise6" />
         <item itemvalue="Application.Exercise9" />
         <item itemvalue="Application.Exercise8" />
         <item itemvalue="Application.Exercise4" />
         <item itemvalue="Application.Exercise7" />
-        <item itemvalue="Application.Exercise6" />
       </list>
     </recent_temporary>
   </component>
@@ -154,7 +153,7 @@
       <workItem from="1675085279171" duration="8218000" />
       <workItem from="1675333707745" duration="95000" />
       <workItem from="1675333835678" duration="167000" />
-      <workItem from="1675334038341" duration="7522000" />
+      <workItem from="1675334038341" duration="8494000" />
     </task>
     <servers />
   </component>
